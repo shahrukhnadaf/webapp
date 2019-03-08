@@ -3,7 +3,7 @@
  * DB Class
  * This class is used for database related (connect, insert, update, and delete) operations
  * @author    CodexWorld.com
- * @url        http://www.codexworld.com
+ * @url        http://www.codexworld.comcgfcgfcgc
  * @license    http://www.codexworld.com/license
  */
 class DB{
